@@ -1,4 +1,4 @@
-// Second Largest Element in an Array without sorting
+// Second largest Element in an Array without sorting
 
 const secondLargest = (arr)=>{
     let max = Number.NEGATIVE_INFINITY;
