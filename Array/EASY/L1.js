@@ -1,4 +1,4 @@
-// Largest Element in array 
+// largest element in array 
 
 
 const largestNum2 = (arr) =>{
@@ -15,9 +15,6 @@ const largestNum =(arr) => {
     }
     return max;
 }
-
-
-
 
 
 const nums = [3, 3, 0, 99, -40];
